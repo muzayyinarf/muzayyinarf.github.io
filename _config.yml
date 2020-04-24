@@ -21,7 +21,7 @@
 title: MuzayyinArf's Project
 email: muzayyinarf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Ini adalah blog iseng saya... saya suka menulis project saya disini
+Ini adalah blog iseng saya... saya suka menulis project saya disini -<
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: muzayyinarf
