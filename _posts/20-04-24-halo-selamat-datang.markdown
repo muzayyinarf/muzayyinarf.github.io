@@ -7,6 +7,8 @@ categories: others
 ---
 Halo,
 
+
+
 Perkenalkan, Saya `Muzayyin Arifin` saya bekerja di `Krakatau Steel` dan sedang kuliah di `Universitas Bina Bangsa`.
 `Selamat datang`di blog sederhana saya. 
 Saya suka menulis dan membagikan project saya disini. Ini adalah postingan `pertama` saya.
