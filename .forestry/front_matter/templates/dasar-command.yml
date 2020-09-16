@@ -1,4 +1,21 @@
 ---
 label: Dasar Command
 hide_body: true
-fields: []
+fields:
+- name: kotlin
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Kotlin
+  description: Here IS ACKSKDKA<br>LSDKAKSD<br>KSLKASLCK<br>SACKOKASKC<br>KOKASOCKASKC<br>AOKSCKASC
+  hidden: false
+- name: why_yo_so_serios
+  type: text
+  config:
+    required: false
+  label: WHY YO SO SERIOS
+  description: JUDUL JUDUL
